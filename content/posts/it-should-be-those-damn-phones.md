@@ -1,0 +1,34 @@
+---
+title: "It SHOULD Be Those \"Damn Phones\""
+date: 2025-02-15
+draft: false
+description: "Why raw social media footage builds more empathy than statistics ever could."
+---
+
+Conceptualizing other human beings is fucking hard, man.
+
+Don't get me wrong, I can acknowledge that other people on this planet exist. It's not a mystery to me that there exists other meat blobs walking around with a mind of their own (this is not a post on solipsism, in case you were wondering).
+
+Yet, despite my experience and knowledge of the intricate lives of many of the closest individuals to me, the one task that seemingly is the most difficult to grasp is developing an actual empathy for strangers.
+
+We hear on the news all about the tragedies happening in foreign countries. Another war in Africa, another humanitarian crisis in the Asian South; not a day goes by without hearing of some terrible news in a place most of us cannot place on a map. And yet, despite the fact that we can recognize that these people's suffering in these far-away countries are uniquely human, it seems as if political indifference is the scourge of the modern era.
+
+How the hell can I wrap my head around the reality that there are billions of living, breathing human beings on the opposite side of the planet living lives exactly like mine? Why is it so difficult to grasp not only the quantity of that population, but also the qualities innate within that vast quantity? Why are our human brains so bad at dealing with these massive tasks of consolidation?
+
+When numbers begin to get into the hundreds and even the thousands, I won't be the first to admit that I begin to grow numb to the sheer size of it all. The difference between 1 death and 1,000,000 deaths seems infinitely larger than the difference between 1,000,000 and 2,000,000 deaths to my finite mind. And why is that? Perhaps we can consult one famously grim quote from the Soviet dictator Joseph Stalin:
+
+"A single death is a tragedy, a million deaths is a statistic."
+
+Indeed, though it may be hard to wrestle with the ideas of historically evil men, it seems as if his words ring truer than ever in our modern world.
+
+In mainstream American politics, the murders of Renee Good and Alex Pretti by ICE agents are at the forefront of practically all social conversations. Don't get me wrong, I get that these tragic victims deserve our time and respect and should be given the spotlight to highlight the major injustices happening by our government's gestapo. I am not trying to undermine their great importance to building our nation's strength to stand up against corruption. In line with the "great man theory," our world seemingly needs strong figureheads to look up to and be inspired by in times of great confusion and unrest.
+
+However, the point I am trying to make is that, in light of the ever-growing school shooting statistics that illuminate the reality that we get more of these tragedies per year than we do days in the year as a whole (i.e. we get significantly more than 365 school shootings per year), our nation begins to lose its empathy once the mud on larger national tragedies begins to be washed away. Never mind thinking about people from nations on the other side of the globe, even in our own country, we have a hard time recognizing the massive amounts of injustice happening to our communities in massive scale every single day. In a way, our brains have grown numb to the numbers. School shootings become an everyday occurrence, and over time, they've lost their ability to grasp the nation's attention. We stick to what is easy, honing in on specifics and individuals that we can flagship as icons for our national causes.
+
+This is where I propose that social media may be able to come in to assist us with these insurmountable tasks of grappling the individual essence of people in high quantities. Of all the news that I hear about, the stories that stick out to me the most to me in my memory are the raw, personalized videos that people record on social media. Though I hear all about the bombings in countries such as Yemen, Venezuela, and Ukraine, I have to admit, the numbers and data escape me after a short time. From the names to the statistics to even the geography of such mass tragedies, grappling with the gigantic magnitude of global geopolitics is frankly extremely difficult, especially while juggling a college and personal life. Yet, it is in the small, poorly filmed videos of little boys and girls on the street outside of their bombed hospitals and schools with the sound of crunching gravel beneath them that truly stand out in my head for the longterm, beyond the cold, dry statistics of traditional news.
+
+In this way, I really do think that using social media for developing our empathy really is not as bad of an idea as it may seem on the surface purely based on the bad reputation of the words. I know that the buzzword of "social media" is often heavily demonized in our modern culture. Everything from "social media purges" to cleanse one's mental health and the "unrealistic expectations" of the rose-tinted lives of online influencers have all been well-documented and written upon; I'm not going to be the 1000th person to call out these flaws of the online world. However, I do think that social media as a news outlet, specifically in relation to it being an empathy-building device, is highly swept under the rug by such high coverage of these specific negative qualities. Despite all of its shortcomings, social media really is the only place in our modern lives where personal, on-the-ground documentation of humanity can ever really occur. Even with all the budget in the world, no documentary or ethnographic study ever comes close to revealing the actual, genuine lives of some of the world's most downtrodden and trampled upon individuals to the same degree that a simple unedited and shaky TikTok filmed by a starving mother struggling to feed her family in a war-torn country does.
+
+With phone in hand, social media gives us the ability to access the intimate lives of those on the other side of the planet, expanding our circle of care to perhaps encompass those who are geographically extremely far from us. Hearing the stories and lives of strangers who portray lives no stranger than the ones we live on our side of the globe, we are given the ability to better conceptualize the expansiveness of the human condition. Though clicks and likes themselves may not necessarily save the world, our views and developing empathies for our brothers and sisters certainly will bring us one step closer.
+
+So, instead of casting social media away as a demon, take some time to recognize its power to bring forth the worlds we may never see. These "damn phones" that we are always talking negatively about have their place in rebuilding our global kinship.
