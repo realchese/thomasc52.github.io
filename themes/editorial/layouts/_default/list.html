@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="essay-list-section page-list">
+  <h2 class="section-heading">Essays</h2>
+  {{ range $i, $p := .Pages.ByDate.Reverse }}
+  <a href="{{ $p.RelPermalink }}" class="essay-card">
+    <span class="essay-number">{{ printf "%02d" (add $i 1) }}</span>
+    <div class="essay-info">
+      <span class="essay-title">{{ $p.Title }}</span>
+      <span class="essay-meta">{{ $p.Date.Format "January 2, 2006" }} · {{ $p.ReadingTime }} min read</span>
+    </div>
+  </a>
+  {{ end }}
+</section>
+{{ end }}

@@ -1,47 +1,22 @@
-baseURL = "https://thomasc52.github.io/"
+baseURL = "https://realchese.github.io/thomasc52/"
 languageCode = "en-us"
 title = "Thomas Chan"
-theme = "PaperMod"
+theme = "editorial"
 paginate = 10
 
 [params]
-  env = "production"
-  description = "Essays on culture, politics, and what it means to be human."
-  author = "Thomas Chan"
-  ShowReadingTime = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = false
-  ShowCodeCopyButtons = false
-  ShowShareButtons = false
-  ShowToc = false
-  defaultTheme = "light"
-  disableThemeToggle = true
-
-  [params.homeInfoParams]
-    Title = "Thomas Chan"
-    Content = "Writer. Thinker. UC Berkeley."
-
-  [[params.socialIcons]]
-    name = "substack"
-    url = "https://thomaschan52.substack.com"
-
-[params.profileMode]
-  enabled = false
+  tagline = "Writer. Thinker. UC Berkeley."
+  substackUrl = "https://thomaschan52.substack.com"
 
 [menu]
   [[menu.main]]
-    identifier = "essays"
     name = "Essays"
     url = "/posts/"
-    weight = 10
+    weight = 1
   [[menu.main]]
-    identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 20
-
-[outputs]
-  home = ["HTML", "RSS"]
+    weight = 2
 
 [markup]
   [markup.goldmark]

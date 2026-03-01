@@ -1,0 +1,9 @@
+name = "Editorial"
+license = "MIT"
+licenselink = ""
+description = "A literary minimalist theme"
+tags = ["minimal", "literary", "editorial"]
+min_version = "0.112.0"
+
+[author]
+  name = "TClaw"
